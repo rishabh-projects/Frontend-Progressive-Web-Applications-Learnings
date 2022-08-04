@@ -1,4 +1,3 @@
-# Frontend-Mobile-Responsive-Web-Design-React-Native-Flutter-HTML-CSS-Progressive-Web-Applications
 ## Building Progressive Web Applications
 
 A progressive web application, often called a PWA, is a type of application built using common web technologies including HTML, CSS, and JavaScript. It is intended to work on any platform that uses a standards-compliant browser, including both desktop and mobile devices. PWA’s offer fast performance, access to mobile device sensors, support push notifications, and the ability to download the app to a mobile home screen, making them a great choice for your next application.
